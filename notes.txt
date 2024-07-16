@@ -139,3 +139,13 @@ We now have the basic front-end template set up with a navbar, a footer, and a t
 that uses Template Inheritance to extend from the base file.
 In the next lesson, we are going to start working with the database, and performing some CRUD functionality.
 For now, go ahead and push your code to GitHub, and I'll see you on the next video.
+
+------------------------lesson 5 Adding Categories
+-a button called Add Category and a function called add_category()
+- When a user clicks the Add Category button, the add_category() function will run. 
+  This function will provide the user with a form to save a new category to the database.
+-You create your add_category() function in the routes.py and wire this up to your 
+ Add Category button.
+
+
+
