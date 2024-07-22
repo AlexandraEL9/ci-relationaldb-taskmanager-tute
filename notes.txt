@@ -381,4 +381,7 @@ In the next video, we are going to focus on the U in CRUD, which will allow user
 the category name by clicking the 'Edit' button.
 For now though, make sure to push your changes to GitHub, and I'll see you on the next video.
 
-
+------------------------lesson 7 updating categories
+- A button called 'Edit' and a function called edit_category().
+- When a user clicks the 'Edit' button on the form, the edit_category() function will run. This will update the Category text in the Database.
+- You create your edit_category() function in routes.py and wire this up to your Edit button.
